@@ -1,0 +1,26 @@
+.text-center {
+    text-align: center;
+}
+
+body{
+    background-color: #3EDBF0;
+    text-align: center;
+}
+.form-signin {
+    width: 100%;
+    max-width: 330px;
+    padding: 15px;
+    margin: auto;
+    margin-top: 8%;
+}
+
+.form-floating {
+    position: relative;
+}
+
+.rem-me{
+    padding-top: 5%;
+}
+.email-password{
+    padding-bottom:1% ;
+}
